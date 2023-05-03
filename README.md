@@ -4,7 +4,7 @@
 **pupefrosi/pupefrosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a proyect
+- 🔭 I’m currently working on a project
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
